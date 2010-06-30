@@ -1,6 +1,6 @@
-What is Polyphony?
+What is Radiator?
 --
-Polyphony is a reference project for the ProAce development team and is meant to be under continuous refinement. 
+Radiator is a simple WPF application to visualize the current status of TeamCity builds.
 
 
 Where is CommonAssemblyInfo.cs?
